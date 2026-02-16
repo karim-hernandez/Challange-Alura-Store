@@ -29,7 +29,7 @@ Este proyecto es la implementación del challange "Alura Store". De acuerdo a lo
    Ejecuta todas las celdas en orden para reproducir el análisis.
 
 ## Estructura del proyecto
-'''
+```
 Challenge Alura Store/
 │
 ├── AluraStoreLatam.ipynb           # Libreta del codigo
@@ -40,6 +40,6 @@ Challenge Alura Store/
     ├── CalificacionPromedio.png
     ├── ProductosMasyMenosVendidos.png
     └── EnvioPromedio.png
-'''
+```
 ## Autor
 **Karim Gibrán Hernández Chahán** [karim-hernandez](https://github.com/karim-hernandez)
