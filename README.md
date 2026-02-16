@@ -14,8 +14,7 @@ Este proyecto es la implementación del challange "Alura Store". De acuerdo a lo
 ## Instalación y ejecución
 1. **Clonar el repositorio**:
    ```bash
-   git clonehttps://github.com/karim-hernandez/Challange-Alura-Store.git
-   cd Challenge-Alura-Store
+   git clone https://github.com/karim-hernandez/Challange-Alura-Store.git
    ```
 2. **Instalar dependencias**:
    ```bash
